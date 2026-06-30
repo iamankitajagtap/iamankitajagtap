@@ -2,8 +2,7 @@
 <p align="center">Aspiring Cloud Engineer | DevOps Engineer | Learning AWS, Terraform & Docker</p>
 
 
-| Domain                       | Skills/Tools                                   | Projects                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| ---------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Domain                       | Skills/Tools                                   | Projects                                                                                                                                                                  
 | **Cloud**                    | AWS                                            |  - [Static Website Deployment](https://github.com/iamankitajagtap/Static-Website-Deployment) <br> - [Securing VPC](https://github.com/iamankitajagtap/your-repo-name) |
 
 
