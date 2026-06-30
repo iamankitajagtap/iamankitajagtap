@@ -5,6 +5,8 @@
 |-------------|---------------------|-------------------|
 | Cloud | AWS | - [Static Website Deployment](https://github.com/iamankitajagtap/Static-Website-Deployment) <br> - [Securing VPC](https://github.com/iamankitajagtap/your-repo-name) |
 
+| Cloud                 i| AWS | - [Static Website Deployment](https://github.com/iamankitajagtap/Static-Website-Deployment) <br> - [Securing VPC](https://github.com/iamankitajagtap/your-repo-name) |
+
 
 <!--
 **iamankitajagtap/iamankitajagtap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
