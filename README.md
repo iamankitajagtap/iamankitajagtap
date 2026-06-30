@@ -4,8 +4,9 @@
 | Domain      | Skills/Tools        | Projects          |
 |-------------|---------------------|-------------------|
 | Cloud | AWS | - [Static Website Deployment](https://github.com/iamankitajagtap/Static-Website-Deployment) <br> - [Securing VPC](https://github.com/iamankitajagtap/your-repo-name) |
+| Cloud          -| AWS | - [Static Website Deployment](https://github.com/iamankitajagtap/Static-Website-Deployment) <br> - [Securing VPC](https://github.com/iamankitajagtap/your-repo-name) |
 
-| Cloud                 i| AWS | - [Static Website Deployment](https://github.com/iamankitajagtap/Static-Website-Deployment) <br> - [Securing VPC](https://github.com/iamankitajagtap/your-repo-name) |
+
 
 
 <!--
