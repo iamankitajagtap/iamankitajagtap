@@ -11,6 +11,7 @@
 - 🚀 Focused on scalable, secure cloud architecture
 
 ---
+## 🚀 Projects
 
 | Domain      | Skills/Tools        | Projects          |
 |-------------|---------------------|-------------------|
