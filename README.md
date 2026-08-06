@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I am Ankita Jagtap</h1>
 <p align="center">Aspiring Cloud Engineer | DevOps Engineer | Learning AWS, Terraform & Docker</p>
 
-| Domain      | Skills/Tools        | Projects          |
-|-------------|---------------------|-------------------|
-| Cloud | AWS | - [Static Website Deployment](https://github.com/iamankitajagtap/Static-Website) <br> - [Dynamic_Website_Deployment ](https://github.com/iamankitajagtap/Dynamic-Website.git) |
-
-
-
-
----
-
 ## 🌑 About Me
 
 - ☁️ Hands-on experience with AWS (EC2, S3, IAM, VPC, RDS, CloudWatch)
@@ -20,6 +11,17 @@
 - 🚀 Focused on scalable, secure cloud architecture
 
 ---
+
+| Domain      | Skills/Tools        | Projects          |
+|-------------|---------------------|-------------------|
+| Cloud | AWS | - [Static Website Deployment](https://github.com/iamankitajagtap/Static-Website) <br> - [Dynamic_Website_Deployment ](https://github.com/iamankitajagtap/Dynamic-Website.git) |
+
+
+
+
+---
+
+
 
 ## 🛠️ Tech Stack
 
