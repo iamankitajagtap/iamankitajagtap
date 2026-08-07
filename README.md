@@ -15,8 +15,8 @@
 
 | Project Name  | Tech Stack      |
 |-------------|-------------------|
-|- [Static Website Deployment](https://github.com/iamankitajagtap/Static-Website) | EC2,Amazon Linux, Nginx,VPC|
-|- [Dynamic_Website_Deployment ](https://github.com/iamankitajagtap/Dynamic-Website.git) | EC2, Amazon Linux, Nginx, PHP, PHP-FPM, MySQL|
+| [Static Website Deployment](https://github.com/iamankitajagtap/Static-Website) | EC2,Amazon Linux, Nginx,VPC|
+| [Dynamic_Website_Deployment ](https://github.com/iamankitajagtap/Dynamic-Website.git) | EC2, Amazon Linux, Nginx, PHP, PHP-FPM, MySQL|
 
 
 
