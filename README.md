@@ -13,9 +13,10 @@
 ---
 ## 🚀 Projects
 
-| Domain      | Skills/Tools        | Projects          |
-|-------------|---------------------|-------------------|
-| Cloud | AWS | - [Static Website Deployment](https://github.com/iamankitajagtap/Static-Website) <br> - [Dynamic_Website_Deployment ](https://github.com/iamankitajagtap/Dynamic-Website.git) |
+| Project Name  | Tech Stack      |
+|-------------|-------------------|
+|- [Static Website Deployment](https://github.com/iamankitajagtap/Static-Website) | EC2,nginx|
+|- [Dynamic_Website_Deployment ](https://github.com/iamankitajagtap/Dynamic-Website.git) | EC2, database|
 
 
 
