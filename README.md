@@ -20,6 +20,7 @@
 | [ScaleWatch-AWS-Auto-Scaling-Monitoring-Platform](https://github.com/iamankitajagtap/ScaleWatch-AWS-Auto-Scaling-Monitoring-Platform) | Load Balacing, Auto Scaling, VPC, RDS, CloudWatch, Tomcat |
 |[AWS-RDS-Database-Migration-Project](https://github.com/iamankitajagtap/AWS-RDS-Database-Migration-Project) | Amazon RDS, MariaDB Client, mysqldump, VPC & Security Group |
 |[Auto-Scaled-Microservices-Deployment-on-AWS](https://github.com/iamankitajagtap/Auto-Scaled-Microservices-Deployment-on-AWS-) | AWS EC2, ALB, Auto Scaling (ASG), VPC & Security Groups, Launch Templates & Target Groups |
+|[AWS-Cloudwatch-SNS-Monitoring](https://github.com/iamankitajagtap/aws-cloudwatch-sns-monitoring)|AWS EC2, Amazon CloudWatch, CloudWatch Alarms, Amazon SNS, CPU Monitoring, Alert Automation | 
 
 
 
