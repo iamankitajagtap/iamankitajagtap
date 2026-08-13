@@ -22,6 +22,7 @@
 |[Auto-Scaled-Microservices-Deployment-on-AWS](https://github.com/iamankitajagtap/Auto-Scaled-Microservices-Deployment-on-AWS-) | AWS EC2, ALB, Auto Scaling (ASG), VPC & Security Groups, Launch Templates & Target Groups |
 |[AWS-Cloudwatch-SNS-Monitoring](https://github.com/iamankitajagtap/aws-cloudwatch-sns-monitoring)|AWS EC2, Amazon CloudWatch, CloudWatch Alarms, Amazon SNS, CPU Monitoring, Alert Automation | 
 |[GitLab-Version-Control-Branching-GitHub-Repository-Import](https://github.com/iamankitajagtap/GitLab-Version-Control-Branching-GitHub-Repository-Import) | Git & Git Bash, GitLab, GitHub, SSH Authentication, Branching & Merge Requests, Repository Management |
+|[Containerized-WordPress-Application-on-AWS-EC2](https://github.com/iamankitajagtap/Containerized-WordPress-Application-on-AWS-EC2) | Docker, AWS EC2, Containerization, Docker Hub, MySQL, Linux, Environment Variables, Docker Port Mapping |
 
 
 
