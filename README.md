@@ -24,7 +24,7 @@
 |[GitLab-Version-Control-Branching-GitHub-Repository-Import](https://github.com/iamankitajagtap/GitLab-Version-Control-Branching-GitHub-Repository-Import) | Git & Git Bash, GitLab, GitHub, SSH Authentication, Branching & Merge Requests, Repository Management |
 |[Containerized-WordPress-Application-on-AWS-EC2](https://github.com/iamankitajagtap/Containerized-WordPress-Application-on-AWS-EC2) | Docker, AWS EC2, Containerization, Docker Hub, MySQL, Linux, Environment Variables, Docker Port Mapping |
 |[Dockerized-Student-Registration-System](https://github.com/iamankitajagtap/Dockerized-Student-Registration-System)| AWS EC2, Docker & Docker Compose, Container Networking, Nginx & PHP-FPM, MySQL, Linux, Persistent Volumes   |
-|  [Dockerized-Multi-Tier-Web-Application] ( https://github.com/iamankitajagtap/Dockerized-Multi-Tier-Web-Application)  |  AWS EC2, Docker, Docker Compose, NGINX, React, Flask, MySQL, Linux, Git, GitHub   |
+|[Dockerized-Multi-Tier-Web-Application]( https://github.com/iamankitajagtap/Dockerized-Multi-Tier-Web-Application) |  AWS EC2, Docker, Docker Compose, NGINX, React, Flask, MySQL, Linux, Git, GitHub |
 
 
 
